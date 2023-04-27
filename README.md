@@ -1,9 +1,13 @@
 # bubble_tea
+Application for Bubbule tea.
 
-Aplikacja dla miłosników bubule tea którzy nie mogą jej pić, ale przynajmiej poklikają 
+
+ver 0.0.1 :
+- basic app
+- home page
+- buble tea maker
 
 
-Folders: 
 
-Models - strcucture of data
+
 ##
